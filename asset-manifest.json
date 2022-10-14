@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/profile-hamiduc/static/css/main.e0401455.css",
-    "main.js": "/profile-hamiduc/static/js/main.3023a3a9.js",
+    "main.css": "/profile-hamiduc/static/css/main.0b2e495f.css",
+    "main.js": "/profile-hamiduc/static/js/main.bedc4ca0.js",
     "static/media/project2.png": "/profile-hamiduc/static/media/project2.25bae9ae052475ec0619.png",
     "static/media/boy.png": "/profile-hamiduc/static/media/boy.1e9198e8a937e4fbb0de.png",
     "static/media/project1.png": "/profile-hamiduc/static/media/project1.168da7e74d02f0b240ab.png",
@@ -17,11 +17,11 @@
     "static/media/Vector2.png": "/profile-hamiduc/static/media/Vector2.28db5bfd58081dd1df1b.png",
     "static/media/glasses.png": "/profile-hamiduc/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
     "index.html": "/profile-hamiduc/index.html",
-    "main.e0401455.css.map": "/profile-hamiduc/static/css/main.e0401455.css.map",
-    "main.3023a3a9.js.map": "/profile-hamiduc/static/js/main.3023a3a9.js.map"
+    "main.0b2e495f.css.map": "/profile-hamiduc/static/css/main.0b2e495f.css.map",
+    "main.bedc4ca0.js.map": "/profile-hamiduc/static/js/main.bedc4ca0.js.map"
   },
   "entrypoints": [
-    "static/css/main.e0401455.css",
-    "static/js/main.3023a3a9.js"
+    "static/css/main.0b2e495f.css",
+    "static/js/main.bedc4ca0.js"
   ]
 }
