@@ -45,6 +45,7 @@
 /* right sided */
 .cards {
   position: relative;
+  margin-bottom: 50px;
 }
 
 .cards>* {
@@ -67,14 +68,14 @@
     margin-top: 0;
     flex-direction: column;
     gap: 5rem;
-    height: 66rem;
+    height: 74rem;
     padding: 0;
   }
 
   .cards {
     display: flex;
     flex-direction: column;
-    gap: 17rem;
+    gap: 21rem;
   }
 
   .cards>* {
