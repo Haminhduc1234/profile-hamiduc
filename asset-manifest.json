@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/profile-hamiduc/static/css/main.e0401455.css",
+    "main.js": "/profile-hamiduc/static/js/main.3023a3a9.js",
+    "static/media/project2.png": "/profile-hamiduc/static/media/project2.25bae9ae052475ec0619.png",
+    "static/media/boy.png": "/profile-hamiduc/static/media/boy.1e9198e8a937e4fbb0de.png",
+    "static/media/project1.png": "/profile-hamiduc/static/media/project1.168da7e74d02f0b240ab.png",
+    "static/media/resume.pdf": "/profile-hamiduc/static/media/resume.858f0872c492796922a2.pdf",
+    "static/media/glassesimoji.png": "/profile-hamiduc/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/project3.png": "/profile-hamiduc/static/media/project3.e58a7135f65cef7e7cd1.png",
+    "static/media/project4.png": "/profile-hamiduc/static/media/project4.485e10a63385634e758b.png",
+    "static/media/thumbup.png": "/profile-hamiduc/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/humble.png": "/profile-hamiduc/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/profile-hamiduc/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/wave.png": "/profile-hamiduc/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/profile-hamiduc/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/profile-hamiduc/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/profile-hamiduc/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "index.html": "/profile-hamiduc/index.html",
+    "main.e0401455.css.map": "/profile-hamiduc/static/css/main.e0401455.css.map",
+    "main.3023a3a9.js.map": "/profile-hamiduc/static/js/main.3023a3a9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0401455.css",
+    "static/js/main.3023a3a9.js"
+  ]
+}
